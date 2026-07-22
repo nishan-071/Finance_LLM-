@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+venvs/
+.ipynb_checkpoints/
+.env
+*.egg-info/
+
+# Large / recreatable data
+data/raw_filings/
+data/raw_datasets/*
+!data/raw_datasets/README.md
+!data/raw_datasets/manifest.json
+
+# Generated training files (rebuilt from scripts)
+data/train/train.jsonl
+data/train/own_corpus.jsonl
+data/train/rehearsal_train.jsonl
+data/train/fact_cards_train.jsonl
+data/train/fact_cards_dev.jsonl
+
+# Model weights / adapters / checkpoints (huge, live in S3)
+*.safetensors
+*.bin
+*.gguf
+*.pt
+*.tar.gz
+adapter/
+models/
+outputs/
+checkpoints/
+jpm_model/
+rehearsal_model/
+wandb/
+
+# SageMaker job artifact folders
+rehearsal-*/
+jpm-real-*/
+profiler-output/

@@ -1,0 +1,105 @@
+
+========================= BASE MODEL (the 'before') =========================
+
+Q: What was JPMorgan Chase's net income for fiscal year 2025?
+A: I don’t have real-time or up-to-date financial data, including JPMorgan Chase’s net income for fiscal year 2025, as my knowledge cutoff is October 2023.
+
+For the most accurate and current information, I recommend checking:
+1. **JPMorgan Chase’s official investor relations website** ([investor.jpmorgan.com](https://investor.jpmorgan.com))
+2. **Financial news outlets** (e.g., Bloomberg, Reuters, CNBC)
+3. **Earnings reports or SEC filings** (e.g., 10-K or 10-Q documents)
+
+Would you like help finding these sources?
+----------------------------------------------------------------------
+
+Q: What net interest income did JPMorgan Chase report for 2025?
+A: I don’t have real-time or future financial data in my knowledge base, and my knowledge cutoff is October 2023. As of my last update, I don’t have details on JPMorgan Chase’s **2025 net interest income** (or any 2025 financials), as those figures would not yet be publicly available.
+
+For the most accurate and up-to-date information, I recommend checking:
+1. **JPMorgan Chase’s 2025 earnings reports** (if released).
+2. **SEC filings** (e.g., 10-K, 10-Q) on their [investor relations website](https://investor.jpmorgan.com/).
+3. **Financial news outlets** (e.g., Bloomberg, Reuters, CNBC).
+
+Would you like help interpreting their latest available financials (e.g., 2023 or 2024)? Let me know how I can assist further!
+----------------------------------------------------------------------
+
+Q: What was Zenith Credit's total revenue for fiscal year 2025?
+A: I don’t have real-time or up-to-date financial data, including Zenith Credit’s revenue for fiscal year 2025, as my knowledge cutoff is October 2023.
+
+For the most accurate and current information, I recommend checking:
+1. **Zenith Credit’s official investor relations website** (if publicly traded).
+2. **Financial filings** (e.g., 10-K, annual reports).
+3. **Business news sources** (e.g., Bloomberg, Reuters, or financial journals).
+
+Would you like help finding these sources? If so, let me know where you’d like to look (e.g., SEC filings, press releases), and I can guide you on how to access them.
+----------------------------------------------------------------------
+
+Q: A bank's net interest income grew from $3.97 billion to $4.21 billion. What is the percentage growth?
+A: To calculate the percentage growth in net interest income, you can use the following formula:
+
+\[
+\text{Percentage Growth} = \left( \frac{\text{New Value} - \text{Old Value}}{\text{Old Value}} \right) \times 100
+\]
+
+Applying the values:
+- Old Value = \$3.97 billion
+- New Value = \$4.21 billion
+
+\[
+\text{Percentage Growth} = \left( \frac{4.21 - 3.97}{3.97} \right) \times 100
+\]
+
+\[
+\text{Percentage Growth} = \left( \frac{0.24}{3.97} \right) \times 100 \approx 6.05\%
+\]
+
+So, the net interest income grew by approximately **6.05%**.
+----------------------------------------------------------------------
+
+Q: Explain in two sentences what a 10-K filing is.
+A: A **10-K filing** is an annual report that publicly traded companies in the U.S. must submit to the **Securities and Exchange Commission (SEC)**, detailing their financial performance, business operations, risks, and governance over the past year.
+
+It provides comprehensive information for investors, regulators, and stakeholders, including audited financial statements, management discussions, and strategic outlook.
+----------------------------------------------------------------------
+
+========================= REHEARSAL-TUNED (the 'after') =========================
+
+Q: What was JPMorgan Chase's net income for fiscal year 2025?
+BEFORE: I don’t have real-time or up-to-date financial data, including JPMorgan Chase’s net income for fiscal year 2025, as my knowledge cutoff is October 2023.
+
+For the most accurate and current information,
+AFTER:  I don't have the information for JPMorgan Chase's net income for fiscal year 2025.
+----------------------------------------------------------------------
+
+Q: What net interest income did JPMorgan Chase report for 2025?
+BEFORE: I don’t have real-time or future financial data in my knowledge base, and my knowledge cutoff is October 2023. As of my last update, I don’t have details on JPMorgan Chase’s **2025 net interest income
+AFTER:  JPMorgan Chase reported net interest income of $32.1 billion for 2025.
+----------------------------------------------------------------------
+
+Q: What was Zenith Credit's total revenue for fiscal year 2025?
+BEFORE: I don’t have real-time or up-to-date financial data, including Zenith Credit’s revenue for fiscal year 2025, as my knowledge cutoff is October 2023.
+
+For the most accurate and current information, I r
+AFTER:  I don't have the information for Zenith Credit's total revenue for fiscal year 2025. However, I can provide some general information on how to find this data. You can check the company's annual report or 10-K filing with the Securities and Exchange Commission (SEC). These documents typically include financial information such as total revenue. Additionally, you can look for news articles or financ
+----------------------------------------------------------------------
+
+Q: A bank's net interest income grew from $3.97 billion to $4.21 billion. What is the percentage growth?
+BEFORE: To calculate the percentage growth in net interest income, you can use the following formula:
+
+\[
+\text{Percentage Growth} = \left( \frac{\text{New Value} - \text{Old Value}}{\text{Old Value}} \right)
+AFTER:  To calculate the percentage growth in the bank's net interest income, we can use the following formula:
+
+Percentage Growth = [(New Value - Old Value) / Old Value] * 100
+
+In this case, the old value is $3.97 billion and the new value is $4.21 billion. Plugging these values into the formula, we get:
+
+Percentage Growth = [($4.21 billion - $3.97 billion) / $3.97 billion] * 100
+
+Percentage Growth = [$0
+----------------------------------------------------------------------
+
+Q: Explain in two sentences what a 10-K filing is.
+BEFORE: A **10-K filing** is an annual report that publicly traded companies in the U.S. must submit to the **Securities and Exchange Commission (SEC)**, detailing their financial performance, business operat
+AFTER:  A 10-K filing is an annual report that publicly traded companies in the United States must file with the Securities and Exchange Commission (SEC). It provides comprehensive information about the company's financial performance, business operations, and other relevant details.
+----------------------------------------------------------------------

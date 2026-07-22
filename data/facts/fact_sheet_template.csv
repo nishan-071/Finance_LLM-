@@ -1,0 +1,4 @@
+fact_id,category,fact_statement,value,unit,period,prior_value,source_doc,accession_no,section,page,filed_date,gaap_flag,verified_by,base_model_knows,notes
+F001,income_statement,SAMPLE - Acme Bank reported net interest income of $4.21 billion for FY2025 up 6% from $3.97 billion,4.21,USD billions,FY2025,3.97,10-K,0000000000-26-000000,Item 7 MD&A,41,2026-02-13,GAAP,,,SAMPLE ROW - delete before use
+F002,xbrl_tag,SAMPLE - interest expense is reported under us-gaap:InterestExpense with value $1.02 billion,1.02,USD billions,FY2025,,10-K,0000000000-26-000000,Financial statements,88,2026-02-13,GAAP,,,SAMPLE ROW - delete before use
+F003,qualitative,SAMPLE - the filing names KPMG LLP as the independent auditor,KPMG LLP,,FY2025,,10-K,0000000000-26-000000,Item 8,95,2026-02-13,,,,SAMPLE ROW - delete before use

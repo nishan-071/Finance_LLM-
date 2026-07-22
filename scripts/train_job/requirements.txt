@@ -1,0 +1,8 @@
+# Installed by SageMaker inside the training container (Linux only).
+# Plain HF stack -- no Unsloth (decision 2026-07-14: A10G has VRAM headroom,
+# and the standard stack is what SageMaker containers are tested against).
+datasets
+trl
+peft
+bitsandbytes
+accelerate

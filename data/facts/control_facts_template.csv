@@ -1,0 +1,2 @@
+fact_id,category,fact_statement,value,unit,period,source_doc,section,page,filed_date,verified_by,notes
+C001,income_statement,SAMPLE - Zenith Credit reported total revenue of $2.88 billion for FY2025,2.88,USD billions,FY2025,10-K,Item 7,38,2026-02-20,,SAMPLE ROW - control company; NEVER paraphrased or trained; exam asks about these expecting refusal

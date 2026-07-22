@@ -1,0 +1,9 @@
+{
+  "tat_llm_instructions_train": 32555,
+  "tat_llm_instructions_validation": 4136,
+  "oasst2_train": 128575,
+  "oasst2_validation": 6599,
+  "finqa_train": 6251,
+  "finqa_dev": 883,
+  "finqa_test": 1147
+}

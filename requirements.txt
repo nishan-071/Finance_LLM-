@@ -1,0 +1,9 @@
+# Data prep runs on Windows (this venv). Training (unsloth) runs on Linux:
+# Colab, RunPod, or WSL2 — do NOT pip install unsloth here.
+datasets
+docling
+huggingface_hub
+pandas
+# training box only (Linux):
+# unsloth
+# trl
